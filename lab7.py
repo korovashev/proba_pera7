@@ -29,5 +29,3 @@ def z3():
     idraw.text((d, 10), text, font=font, fill=('#ff0000'))
     image.save('dr_text.png')
     image.show()
-
-z3()
